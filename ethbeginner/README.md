@@ -1,4 +1,4 @@
-# Remix Tutorial for Eddycoin Smart Contract
+# Eddycoin Smart Contract
 
 This tutorial will guide you through using the Remix IDE to deploy and interact with the Eddycoin smart contract.
 
@@ -32,3 +32,11 @@ Before you begin, ensure you have the following:
 You have successfully deployed and interacted with the Eddycoin smart contract using Remix. Feel free to explore more features of Remix and experiment with this simple contract.
 
 For a more comprehensive understanding of Solidity and Ethereum smart contracts, refer to the official [Solidity documentation](https://soliditylang.org/docs/).
+
+## AUTHOR
+
+edwinturn
+
+## CONTRACT LICENCE
+
+MIT LICENCE
